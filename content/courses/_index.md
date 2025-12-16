@@ -1,28 +1,19 @@
 ---
-title: Courses
-summary: My courses
+title: Certifications
+summary: Professional certificates and advanced coursework
 type: landing
-
-cascade:
-  - target:
-      path: '{/courses/*/**}'
-    type: docs
-    params:
-      show_breadcrumb: true
 
 sections:
   - block: collection
-    id: courses
+    id: certifications
     content:
-      title: Courses
+      title: Certifications
       filters:
-        tag: Course
-        kinds:
-          - section
+        folders:
+          - courses
     design:
-      view: article-grid
-      show_read_time: false
-      show_date: false
+      view: card
+      columns: 2
+      show_date: true
       show_read_more: false
-      columns: 1
 ---
