@@ -93,8 +93,8 @@ hugoblox:
     theme_toggle: true
     theme_picker: true
     language_switcher: true
-    brand:
-      logo: media/tab.png
+    # brand:
+    #   logo: media/tab.png
     # Call-to-action button
     cta:
       enable: false
