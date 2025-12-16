@@ -1,112 +1,112 @@
 schema: hugoblox/author/v1
-slug: me
+slug: admin
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
+  display: Md Mehdi Hassan
+  given: Mehdi
+  family: ''
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
   pronouns: he/him
 postnominals:
-  - PhD
-  - MIEEE
+  - PhD (expected 2026)
+
 status:
-  icon: "☕️"
-role: Senior AI Research Scientist
+  icon: "🔬"
+role: PhD Researcher — Experimental Quantum Communication & Networking
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  Md Mehdi Hassan is a PhD researcher in experimental quantum communication and
+  quantum networking. His research focuses on precision time synchronization,
+  entanglement-based quantum communication, and quantum key distribution (QKD).
+  He works on fiber-based quantum networks, single-photon detection, and
+  high-precision timing using atomic clocks and time-tagging systems.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: University of Tennessee, Knoxville
+    url: https://quantum.utk.edu/
+  - name: Quantum Networking Lab, University of Tennessee at Chattanooga
+    url: https://www.utc.edu/research/quantum-center  
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: mailto:mmhassan@utk.edu
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
-  - icon: brands/github
-    url: https://github.com/example
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
+    url: https://scholar.google.com/citations?user=OsPLPPkAAAAJ&hl=en
+  - icon: brands/github
+    url: https://github.com/mmh175
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/mdmehdi-hassan/
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/my-orcid?orcid=0000-0002-3643-8229
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Integrated Photonics
+  - Quantum Communication
+  - Quantum Networking
+  - Precision Time Synchronization
+  - Quantum Key Distribution (QKD)
+  - Single-Photon Detection
+  - Experimental Quantum Optics
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  - degree: PhD Physics
+    institution: University of Tennessee, Knoxville
+    start: 2019-08-01
+    end*: 2026-05-31
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+      Research in experimental quantum communication and networking,
+      focusing on time synchronization using atomic clocks, entanglement-based
+      protocols, and fiber-based quantum networks.
+  - degree: MS Physics
+    institution: University of Tennessee, Knoxville
+  - degree: MS Theoretical Physics
+    institution: University of Dhaka
+    summary: |
+      Concentration in theoretical condensed matter physics.
+  - degree: BS Physics
+    institution: University of Dhaka
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Graduate Research Assistant
+    org: University of Tennessee, Knoxville
+    start: 2021-08-01
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+      Conducting experimental research on quantum communication and
+      precision timing. Developing data analysis pipelines and synchronization
+      protocols for distributed quantum systems.
+  - role: Summer Research Intern
+    org: Quantum Networking Lab, University of Tennessee at Chattanooga
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Worked on fiber-based quantum networking experiments, time correlation
+      measurements, and quantum synchronization using atomic clocks.
+
 
 skills:
-  - name: Technical Skills
+  - name: Experimental & Hardware
+    items:
+      - label: Single-Photon Detectors (SNSPDs)
+        level: 5
+      - label: Time-Tagging & Synchronization
+        level: 5
+      - label: Fiber Optic Quantum Links
+        level: 5
+  - name: Data & Software
     items:
       - label: Python
         level: 5
-      - label: Machine Learning
+      - label: Scientific Data Analysis
         level: 5
-      - label: Cloud Computing
-        level: 4
-  - name: Research & Communication
-    items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
+      - label: HPC & Parallel Processing
         level: 4
 
 languages:
   - name: English
     level: 5
-    label: Native
-  - name: Spanish
-    level: 4
     label: Fluent
+  - name: Bengali
+    level: 5
+    label: Native
 
 awards:
   - title: Best Paper Award
