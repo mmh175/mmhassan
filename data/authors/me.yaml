@@ -50,10 +50,9 @@ interests:
   - Experimental Quantum Optics
 
 education:
-  - degree: PhD Physics
+  - degree: PhD Physics*
     institution: University of Tennessee, Knoxville
-    start: 2019-08-01
-    end*: 2026-05-31
+    end: 2026-05-31
     summary: |
       Research in experimental quantum communication and networking,
       focusing on time synchronization using atomic clocks, entanglement-based
