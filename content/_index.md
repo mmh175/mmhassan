@@ -41,11 +41,10 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
+        I grew up in Dhaka, the wonderfully chaotic capital of Bangladesh, and did my undergrad at the University of Dhaka. For my Master’s I bravely chose theoretical physics, but somewhere along the way I defected and became a hardcore experimentalist. I now consider that a blessing—I can translate between theorists and experimentalists like a slightly confused but efficient Google Translate. Without that M.S., it would be much harder to pretend I understand both sides. I’m set to graduate next spring. Outside the lab, I unwind by exploring Tennessee counties (I’ve already checked off most of the eastern ones like they’re Pokémon) and by watching movies and hanging out with friends. I’m very interested in integrated photonics and quantum sensing—so if you work in either area and are looking for a postdoc/employee, please consider this my not-so-subtle hint!
         Please reach out to collaborate 😃
+    
     design:
       columns: '1'
   - block: collection
