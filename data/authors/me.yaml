@@ -12,7 +12,7 @@ postnominals:
   - PhD (expected 2026)
 
 status:
-  icon: "🔬"
+  icon: "⚛"
 role: PhD Researcher — Experimental Quantum Communication & Networking
 bio: |
   Md Mehdi Hassan is a PhD researcher in experimental quantum communication and
@@ -49,7 +49,7 @@ interests:
   - Single-Photon Detection
   - Experimental Quantum Optics
 
-education:
+academic:
   - degree: PhD Physics*
     institution: University of Tennessee, Knoxville
     end: 2026-05-31
@@ -66,7 +66,7 @@ education:
   - degree: BS Physics
     institution: University of Dhaka
 
-experience:
+research:
   - role: Graduate Research Assistant
     org: University of Tennessee, Knoxville
     start: 2021-08-01
