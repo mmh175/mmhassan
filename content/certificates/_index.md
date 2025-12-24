@@ -10,23 +10,10 @@ sections:
       title: Courses
       filters:
         folders:
-          - courses
+          - certificates
     design:
       view: card
       columns: 2
       show_date: true
       show_read_more: false
-
-  - block: Awards
-    id: certifications
-    content:
-      title: Awards
-      filters:
-        folders:
-          - courses
-    design:
-      view: card
-      columns: 2
-      show_date: true
-      show_read_more: false      
 ---
